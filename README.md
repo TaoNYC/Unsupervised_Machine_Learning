@@ -1,4 +1,4 @@
-# SQL for Financial Data Base
+# Unsupervised Machine Learning
 
 This is a Python application allowing users to use unsupervised learning to analyze and bucketing crypto coins data
 
