@@ -34,9 +34,9 @@ Alerternatively you can simply just install requirement file included in this fo
 
 ## Usage
 
-Step 1: run etf_analyzer.ipynb
+Step 1: run crypto_inevstiments.ipynb
 ```python
-python etf_analyzer.ipynb
+python crypto_inevstiments.ipynb
 ```
 Step 2: import data from csv.
 
